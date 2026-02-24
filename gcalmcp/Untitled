@@ -1,0 +1,8 @@
+# Google Calendar OAuth (required for calendar tools)
+# Get these by running: node get-refresh-token.js
+# See README for full setup instructions.
+GOOGLE_CLIENT_ID=your_client_id.apps.googleusercontent.com
+GOOGLE_CLIENT_SECRET=your_client_secret
+GOOGLE_REFRESH_TOKEN=your_refresh_token
+
+
